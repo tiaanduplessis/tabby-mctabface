@@ -1,0 +1,12 @@
+.menu-entry {
+	width: 200px;
+	text-align: center;
+	background: #FFF;
+	margin: .5em;
+	padding: 1em;
+}
+
+.menu-entry:hover {
+	cursor: pointer;
+	background: rgb(243, 243, 243);
+}

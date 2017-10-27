@@ -1,0 +1,49 @@
+#options {
+    padding: 20px 0;
+}
+
+.option {
+    margin: 15px 0;
+}
+.option:first-of-type {
+    margin-top: 0;
+}
+
+/* .option > */
+.desc {
+    font-size: 1.1em;
+    margin-bottom: 5px;
+}
+.choices {
+    font-size: 0.9em;
+}
+
+#saved {
+	margin-top: 1em;
+    color: #43A047;
+    background-color: transparent;
+    font-size: 1.2em;
+    display: none;
+    width: 300px;
+}
+
+/**/
+/* HEADER STYLES */
+/**/
+
+h1 {
+    font-size: 3em;
+}
+
+header {
+    border-bottom: 1px solid #f6f6f6;
+}
+
+
+.save-btn {
+    padding: 1em 2em;
+    text-transform: uppercase;
+    background-color: rgb(68, 68, 68);
+    color: #fff;
+    border: none;
+}
