@@ -8,8 +8,6 @@ import '../css/background.css'
 
 import '../img/icon-128.png'
 
-const TAB_NAME = 'Tabby McTabface'
-
 function makeTabGroup(tabsArr) {
     const tabGroup = {
         date: new Date(),
