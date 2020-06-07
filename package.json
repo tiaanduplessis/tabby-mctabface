@@ -23,7 +23,7 @@
         "write-file-webpack-plugin": "3.4.2"
     },
     "dependencies": {
-        "mithril": "0.2.3",
+        "mithril": "2.0.4",
         "moment": "^2.19.1",
         "pico-uid": "^1.0.0"
     }
