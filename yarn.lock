@@ -3165,9 +3165,10 @@ pbkdf2@^3.0.3:
   dependencies:
     create-hmac "^1.1.2"
 
-pico-uid@^1.0.0:
-  version "1.0.0"
-  resolved "https://registry.yarnpkg.com/pico-uid/-/pico-uid-1.0.0.tgz#4f8d9ab6e624b395d5e30e4c27b641afa9c68ac6"
+pico-uid@^1.0.2:
+  version "1.0.2"
+  resolved "https://registry.yarnpkg.com/pico-uid/-/pico-uid-1.0.2.tgz#68332927f7076cb209b433df378318c69ceff51d"
+  integrity sha512-Uzxa3+S5e2Jf5oWrYmHl6JubLKAnoNbfJOTGUA/F/HfO4n5KZFMYcIk4c2JDoX4UaV4kVNVwFY/fXjlDKCRGQw==
 
 pify@^2.0.0:
   version "2.3.0"

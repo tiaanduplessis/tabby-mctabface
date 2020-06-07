@@ -25,6 +25,6 @@
     "dependencies": {
         "mithril": "0.2.3",
         "moment": "^2.19.1",
-        "pico-uid": "^1.0.0"
+        "pico-uid": "^1.0.2"
     }
 }
